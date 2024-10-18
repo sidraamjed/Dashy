@@ -14,7 +14,7 @@ st.write("# Welcome to OCD Symptom Severity Predictor Dashboard!")
 
 st.markdown(
     """
-    ## Aims ? Hello hello !! helloo hellooo whats up everyone
+    ## Aims ? Pew pew pew
 
-    pew pew pew
+    how are you man?
 """)
