@@ -5,7 +5,7 @@ st.set_page_config(
 )
 
 # Sidebar configuration
-st.sidebar.image("./assets/OCD.jpg",)
+
 st.sidebar.success("Select a tab above.")
 
 # # Page information
@@ -13,5 +13,6 @@ st.sidebar.success("Select a tab above.")
 st.write("# Welcome to OCD Symptom Severity Predictor Dashboard!")
 
 st.markdown(
-"""
+    """
     ## Aims ? Hello hello !! helloo hellooo whats up everyone
+""")
